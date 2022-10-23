@@ -1,9 +1,7 @@
 <img src="https://media.giphy.com/media/VbK2YCQFWdg5nvH5wa/giphy.gif" width="100px"/>
 
-## My contributions for []()
+## My contributions for [Gno.Land](https://gno.land/)
 
-### On this project, I am the Ambassador of the Russian-speaking community
-  
 #### [Teletype](https://teletype.in/@kupriianov88)
 
 * [Установка ноды Gno.Land](https://teletype.in/@kupriianov88/Enlm1xBUnU8)
