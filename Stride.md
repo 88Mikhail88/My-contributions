@@ -32,5 +32,7 @@
 
 * [Stride State Sync](https://github.com/88Mikhail88/My_Testnets/blob/main/Stride/Stride%20State%20Sync%20.md)
 
+* [Gaia State Sync](https://github.com/88Mikhail88/My_Testnets/blob/main/Gaia/Gaia%20State%20Sync%20.md)
+
 <img src="https://media.giphy.com/media/WEwplhsxRcHz6rRdUx/giphy.gif" width="100px"/>
 
