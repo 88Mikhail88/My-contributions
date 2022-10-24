@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/VbK2YCQFWdg5nvH5wa/giphy.gif" width="100px"/>
-
 ## My contributions for [Okp4](https://okp4.network/)
   
 #### [Teletype](https://teletype.in/@kupriianov88)
