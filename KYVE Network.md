@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/VbK2YCQFWdg5nvH5wa/giphy.gif" width="100px"/>
-
 ## My contributions for [KYVE Network](https://www.kyve.network/)
 
 ### On this project, I am the Ambassador of the Russian-speaking community
