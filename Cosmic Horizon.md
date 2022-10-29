@@ -14,4 +14,6 @@
 
 * [Что такое Cosmic Horizon](https://medium.com/@MikhailKupriya2/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-cosmic-horizon-3ce54149fe12)
 
+* [Gameplay Cosmic Horizon Часть 1: Вселенная](https://medium.com/@MikhailKupriya2/g-8c53d8072434)
+
 <img src="https://media.giphy.com/media/WEwplhsxRcHz6rRdUx/giphy.gif" width="100px"/>
