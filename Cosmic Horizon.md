@@ -16,4 +16,8 @@
 
 * [Gameplay Cosmic Horizon Часть 1: Вселенная](https://medium.com/@MikhailKupriya2/g-8c53d8072434)
 
+* [Gameplay Cosmic Horizon Часть 2: Локации](https://medium.com/@MikhailKupriya2/g-9bab474056a)
+
+* [Gameplay Cosmic Horizon Часть 3: Star Malls](https://medium.com/@MikhailKupriya2/g-1534ecd31c4f)
+
 <img src="https://media.giphy.com/media/WEwplhsxRcHz6rRdUx/giphy.gif" width="100px"/>
