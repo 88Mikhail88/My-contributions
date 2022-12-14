@@ -39,6 +39,8 @@
 
 * [KYVE_Beta Auto_restake](https://github.com/88Mikhail88/My_Testnets/blob/main/KYVE/KYVE_Beta%20Auto_restake.md)
 
+* [Protocol node install](https://github.com/88Mikhail88/My_Testnets/blob/main/KYVE/Protocol%20node%20.md)
+
 #### [YouTube](https://youtube.com/channel/UCFGo2D-GW1ABgh4vSODg-oQ)
 
 * [KYVE | Как выполнить задание Pool Funding](https://youtu.be/veX9Z3sieh0)
